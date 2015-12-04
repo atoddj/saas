@@ -4,10 +4,17 @@ Please note this website can take up to 30 seconds to load the first time as it 
 
 In this project I am using the following technologies: 
 *HTML
+
 *CSS(with Sass and bootstrap)
+
 *Ruby on Rails
+
 *Stripe API for e-commerce
+
 *Javascript
+
 *Postgresql
+
 *Git
+
 *Heroku
